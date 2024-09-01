@@ -35,7 +35,7 @@ I believe in the power of hands-on experience. Below are some of the key project
 
 ---
 
-### **🔐 Cyber Security Projects**
+### **🔐Virtual Job Simulation Cyber Security Projects**
 
 Here’s a list of cybersecurity-focused projects that I’ve worked on:
 
@@ -44,13 +44,6 @@ Here’s a list of cybersecurity-focused projects that I’ve worked on:
 
 - **MasterCard Cybersecurity Virtual Experience Program**  
   *Participated in security awareness training, focusing on phishing threat analysis and training procedures.*
-
-- **[Your Custom Cybersecurity Project 1]**  
-  *[Brief description of the project, tools used, and what was achieved].*
-
-- **[Your Custom Cybersecurity Project 2]**  
-  *[Brief description of the project, tools used, and what was achieved].*
-
 ---
 
 ### **🌱 Currently Learning**
