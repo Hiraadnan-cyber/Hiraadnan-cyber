@@ -6,12 +6,12 @@ Welcome to my GitHub! I'm a **Cyber Security Enthusiast** with a passion for saf
 
 ---
 
-### ** About Me**
+### About Me
 
 With a strong foundation in **Computer Science**, my journey in tech has been driven by curiosity and a desire to solve complex problems. My focus on cybersecurity has led me to explore various aspects of this field, from threat analysis to secure coding practices. I’m committed to continuously learning and applying my knowledge to protect and innovate in the digital world.
 
 ---
-### ** Currently Learning**
+### Currently Learning
 
 - **Advanced Cybersecurity Threat Analysis**
 - **Penetration Testing Techniques**
@@ -30,7 +30,7 @@ With a strong foundation in **Computer Science**, my journey in tech has been dr
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-### ** Projects & Internships**
+### Projects & Internships
 
 I believe in the power of hands-on experience. Below are some of the key projects and internships that have shaped my career:
 
@@ -51,7 +51,7 @@ I believe in the power of hands-on experience. Below are some of the key project
 
 ---
 
-### **Virtual Job Simulation Cyber Security Projects**
+### Virtual Job Simulation Cyber Security Projects
 
 Here’s a list of cybersecurity-focused projects that I’ve worked on:
 
@@ -72,7 +72,7 @@ Here’s a list of cybersecurity-focused projects that I’ve worked on:
 
 ---
 
-### **Certifications**
+### Certifications
 
 I'm constantly upgrading my skills through certifications to stay at the forefront of technology:
 
