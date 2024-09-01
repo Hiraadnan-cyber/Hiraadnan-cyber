@@ -13,6 +13,17 @@ Welcome to my GitHub! I'm a **Cyber Security Enthusiast** with a passion for saf
 With a strong foundation in **Computer Science**, my journey in tech has been driven by curiosity and a desire to solve complex problems. My focus on cybersecurity has led me to explore various aspects of this field, from threat analysis to secure coding practices. I’m committed to continuously learning and applying my knowledge to protect and innovate in the digital world.
 
 ---
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ### **🛠️ Projects & Internships**
 
