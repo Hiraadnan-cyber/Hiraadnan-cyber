@@ -1,5 +1,3 @@
-Here's a polished version of your GitHub intro page with a more visually appealing layout:
-
 ---
 
 ### **👋 Hi, I'm Hira Adnan**
