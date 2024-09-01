@@ -54,10 +54,15 @@ Here’s a list of cybersecurity-focused projects that I’ve worked on:
   * Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
   * Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
   * Drafted a clear and concise email to guide teams on vulnerability remediation.
-  * Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.*
+  * Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.
 
 - **MasterCard Cybersecurity Virtual Experience Program**  
-  *Participated in security awareness training, focusing on phishing threat analysis and training procedures.*
+ * Completed a job simulation where I served as an analyst on Mastercard’s
+   Security Awareness Team 
+ * Helped identify and report security threats such as phishing 
+ * Analyzed and identified which areas of the business needed more robust
+   security training and implemented training courses and procedures for those
+   teams*
 ---
 
 ### **🌱 Currently Learning**
