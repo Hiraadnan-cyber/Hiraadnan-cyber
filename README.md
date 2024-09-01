@@ -66,7 +66,7 @@ Here’s a list of cybersecurity-focused projects that I’ve worked on:
 I'm constantly upgrading my skills through certifications to stay at the forefront of technology:
 
 - **Google IT Support**
-- **Cyber Security (Google)**
+- **Google Cyber Security**
 - **IELTS 7.0 Bands**
 
 ---
