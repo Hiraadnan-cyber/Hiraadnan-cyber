@@ -51,7 +51,10 @@ I believe in the power of hands-on experience. Below are some of the key project
 Here’s a list of cybersecurity-focused projects that I’ve worked on:
 
 - **AIG Shields Up: Cybersecurity Virtual Experience Program**  
-  *Completed threat analysis and drafted vulnerability remediation guidelines.*
+  * Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
+    Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
+    Drafted a clear and concise email to guide teams on vulnerability remediation.
+    Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys..*
 
 - **MasterCard Cybersecurity Virtual Experience Program**  
   *Participated in security awareness training, focusing on phishing threat analysis and training procedures.*
